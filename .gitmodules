@@ -1,0 +1,6 @@
+[submodule "Perplexica"]
+	path = Perplexica
+	url = https://github.com/ItzCrazyKns/Perplexica.git
+[submodule "external/patent_crawler"]
+	path = external/patent_crawler
+	url = https://github.com/evanxchen/patent_crawler.git
